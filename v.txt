@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=7BizZI2hYoE
+
+Vmware server
+ip address: 192.168.113.7(type this as browser URL)
+user name: root
+password: Cis@2018#
+
+Ubuntu server
+ip address:192.168.113.6
+user name: cis
+password: Cis@2018#

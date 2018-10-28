@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="48" version="2.0">
+<workbenchAdvisor/>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style1.css" tooltip="E:\web-self\WIE practise\style1.css">
+<persistable uri="file:/E:/web-self/WIE%20practise/style1.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="Portfollo.html" tooltip="E:\web-self\WIE practise\Portfollo.html">
+<persistable uri="file:/E:/web-self/WIE%20practise/Portfollo.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="about_page.PNG" tooltip="E:\web-self\WIE practise\about_page.PNG">
+<persistable uri="file:/E:/web-self/WIE%20practise/about_page.PNG"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="homejs.js" tooltip="E:\web-self\project-fortNight\js\homejs.js">
+<persistable uri="file:/E:/web-self/project-fortNight/js/homejs.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="changingImages.html" tooltip="E:\web-self\project-fortNight\changingImages.html">
+<persistable uri="file:/E:/web-self/project-fortNight/changingImages.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="food.html" tooltip="C:\Users\Lucky\AppData\Local\Temp\Rar$DRa0.745\food cabin webpage 1\food.html">
+<persistable uri="file:/C:/Users/Lucky/AppData/Local/Temp/Rar$DRa0.745/food%20cabin%20webpage%201/food.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="food cabin webpage 1-20170902T084107Z-001.zip" tooltip="C:\Users\Lucky\Downloads\food cabin webpage 1-20170902T084107Z-001.zip">
+<persistable uri="file:/C:/Users/Lucky/Downloads/food%20cabin%20webpage%201-20170902T084107Z-001.zip"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="menu.html" tooltip="C:\Users\Lucky\AppData\Local\Temp\Rar$DRa0.582\food cabin webpage 1\menu.html">
+<persistable uri="file:/C:/Users/Lucky/AppData/Local/Temp/Rar$DRa0.582/food%20cabin%20webpage%201/menu.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="homejs.js" tooltip="C:\Users\Lucky\AppData\Local\Temp\Rar$DIa0.949\homejs.js">
+<persistable uri="file:/C:/Users/Lucky/AppData/Local/Temp/Rar$DIa0.949/homejs.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="pageUsingDivs.html" tooltip="E:\web-self\project-fortNight\pageUsingDivs.html">
+<persistable uri="file:/E:/web-self/project-fortNight/pageUsingDivs.html"/>
+</file>
+</mruList>
+</workbench>
